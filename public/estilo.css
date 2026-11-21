@@ -1,0 +1,15 @@
+body {
+  background-color: #f7f5f2;
+}
+
+.navbar-cafe {
+  background-color: #422e25;
+}
+
+.foto-cafe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 5 / 3;
+  object-fit: cover;
+  background-color: #eae1d9;
+}

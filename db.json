@@ -1,0 +1,28 @@
+{
+  "cafes": [
+    {
+      "id": "1",
+      "title": "Café preto",
+      "description": "Café coado, feito com grãos moídos e água quente.",
+      "ingredients": ["Café moído", "Água"],
+      "price": 3.0,
+      "image": "./imagens/cafe-preto.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Latte",
+      "description": "Espresso com leite vaporizado e uma fina camada de espuma.",
+      "ingredients": ["Espresso", "Leite vaporizado"],
+      "price": 4.5,
+      "image": "./imagens/latte.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Cappuccino",
+      "description": "Espresso com leite vaporizado e uma camada generosa de espuma.",
+      "ingredients": ["Espresso", "Leite vaporizado", "Espuma de leite"],
+      "price": 6.5,
+      "image": "./imagens/cappuccino.jpg"
+    }
+  ]
+}
